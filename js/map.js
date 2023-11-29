@@ -1,4 +1,5 @@
-const CITY_URL = "/data/area_vote.json";
+const CITY_URL =
+  "https://f2e2023-age25.github.io/SaKkaVote/data/area_vote.json";
 
 const area = document.getElementById("area");
 const town = document.getElementById("town");
