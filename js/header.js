@@ -4,10 +4,10 @@ const bigIcon = document.querySelector(".bigIcon");
 const shareIcon = document.querySelector(".shareIcon");
 
 headerLogo.addEventListener("mouseenter", () => {
-  headerLogo.src = "../images/00_header/LOGO2_hover.png";
+  headerLogo.src = "images/00_header/LOGO2_hover.png";
 });
 headerLogo.addEventListener("mouseout", () => {
-  headerLogo.src = "../images/00_header/LOGO2.png";
+  headerLogo.src = "images/00_header/LOGO2.png";
 });
 
 smallIcon.addEventListener("mouseenter", () => {
